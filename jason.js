@@ -1,3 +1,3 @@
- {
-    "editor.background": "#1b3622",
- }
+ "workbench.colorCustomizations": {
+    "editor.background":
+}
