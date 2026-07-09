@@ -10,3 +10,13 @@ h5{
 h3{
     text-align: center;
 }
+h2{
+    text-align: left;
+}
+h4{
+    text-align: right;
+}
+div{
+    text-align: right;
+    size;
+}
