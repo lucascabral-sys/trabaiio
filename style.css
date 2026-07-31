@@ -22,3 +22,8 @@ div{
 footer{
     text-align: left;
 }
+.menu {
+  display: flex;       
+  gap: 15px;           
+  flex-wrap: wrap;     
+}
