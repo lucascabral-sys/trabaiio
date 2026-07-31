@@ -25,6 +25,6 @@ footer{
 }
 .menu {
   display: flex;       
-  gap: 120px;           
+  gap: 125px;           
   flex-wrap: wrap;     
 }
